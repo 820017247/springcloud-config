@@ -1,2 +1,2 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=12 name=pf" 
+  info: "master branch,springcloud-config/config-dev.yml version=10 name=pf age=22" 
